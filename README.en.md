@@ -110,7 +110,7 @@ internet needed either to install or to run.
 
 The program is sold on Kwork.
 
-**→ Kwork link**
+**→ https://kwork.ru/software/54550785/prevratite-muzyku-v-zhivuyu-3d-animatsiyu**
 
 Three packages: a portable version for personal use, a version with an
 installer and the right to use in commercial broadcasts, and a premium
