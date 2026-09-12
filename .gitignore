@@ -1,0 +1,14 @@
+# Витрина: исходники здесь не публикуются
+resonance/
+tests/
+build/
+tools_icon.py
+*.py
+*.pyc
+__pycache__/
+.venv/
+
+# Сборки кладутся в Releases, а не в репозиторий
+*.exe
+*.zip
+*.msi

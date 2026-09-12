@@ -1,0 +1,94 @@
+ShashevPro Visual Lab — End User License Agreement
+Лицензионное соглашение с конечным пользователем
+
+Copyright (c) 2026 ShashevPro (shashevpro.ru). All rights reserved.
+Все права защищены.
+
+--------------------------------------------------------------------
+РУССКИЙ ТЕКСТ
+--------------------------------------------------------------------
+
+Это коммерческий программный продукт. Исходный код не распространяется.
+Данный репозиторий содержит только описание, изображения и готовые сборки.
+
+1. ПРЕДОСТАВЛЯЕМЫЕ ПРАВА
+
+После оплаты пользователю предоставляется неисключительное право
+использовать программу в объёме приобретённого пакета:
+
+   Базовый      — личное некоммерческое использование на компьютерах,
+                  принадлежащих покупателю.
+   Стандартный  — дополнительно право использовать программу в
+                  коммерческих трансляциях и в помещениях, открытых
+                  для посетителей.
+   Премиум      — дополнительно индивидуальное оформление и настройка.
+
+2. ОГРАНИЧЕНИЯ
+
+Запрещается:
+   - перепродавать, сдавать в аренду и распространять программу;
+   - публиковать сборки под своим именем или брендом;
+   - вскрывать, декомпилировать и восстанавливать исходный код;
+   - удалять или изменять указания на авторство.
+
+3. ОБНОВЛЕНИЯ
+
+Обновления в пределах текущей основной версии предоставляются бесплатно.
+
+4. ОТКАЗ ОТ ГАРАНТИЙ
+
+Программа поставляется «как есть». Автор не гарантирует пригодности для
+конкретных целей и не несёт ответственности за возможный ущерб.
+
+Ограничения, описанные в документации — отсутствие захвата отдельного
+приложения и зависимость прозрачности окна от конфигурации системы —
+не считаются недостатками программы.
+
+5. ВОЗВРАТ
+
+Если программа не работает по причине, зависящей от автора, и решение не
+найдено, оплата возвращается.
+
+--------------------------------------------------------------------
+ENGLISH TEXT
+--------------------------------------------------------------------
+
+This is a commercial software product. Source code is not distributed.
+This repository contains documentation, images and release builds only.
+
+1. GRANTED RIGHTS
+
+Upon payment the user receives a non-exclusive right to use the program
+within the scope of the purchased package:
+
+   Basic     — personal non-commercial use on computers owned by the
+               purchaser.
+   Standard  — additionally, the right to use the program in commercial
+               broadcasts and in premises open to visitors.
+   Premium   — additionally, custom styling and setup.
+
+2. RESTRICTIONS
+
+You may not:
+   - resell, rent out or redistribute the program;
+   - publish builds under your own name or brand;
+   - reverse engineer, decompile or reconstruct the source code;
+   - remove or alter attribution notices.
+
+3. UPDATES
+
+Updates within the current major version are provided free of charge.
+
+4. DISCLAIMER
+
+The software is provided "as is". The author makes no warranty of fitness
+for a particular purpose and is not liable for any damages.
+
+Limitations described in the documentation — the absence of
+per-application capture and the dependency of window transparency on
+system configuration — are not considered defects.
+
+5. REFUND
+
+If the program does not work for a reason attributable to the author and
+no solution is found, payment is refunded.
